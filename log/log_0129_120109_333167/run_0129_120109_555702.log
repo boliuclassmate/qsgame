@@ -1,0 +1,28 @@
+2021-01-29 12:01:09,557 - Level 21 - run_probe.py main 375 - 开始执行
+2021-01-29 12:01:12,043 - Level 21 - run_probe.py main 402 - 启动应用，等待180秒
+2021-01-29 12:01:12,127 - INFO - run_probe.py main 412 - 启动应用完成
+2021-01-29 12:01:12,127 - INFO - scenedetector.py init 90 - recognize use web 0
+2021-01-29 12:01:12,127 - INFO - scenedetector.py init 91 - run mode local
+2021-01-29 12:01:12,128 - INFO - scenedetector.py init 113 - deviceid2XT0218B14005448
+2021-01-29 12:01:12,128 - INFO - scenedetector.py init 117 - is test server:0
+2021-01-29 12:01:12,167 - INFO - debugger.py __init__ 46 - debugger created
+2021-01-29 12:01:15,347 - INFO - proberunner.py run 140 - 执行超时时间为270秒
+2021-01-29 12:01:15,347 - INFO - proberunner.py run 152 - 开始识别场景
+2021-01-29 12:01:15,495 - INFO - scenedetector.py recognize_scene 316 - 获取信息耗时:0.14835357666015625
+2021-01-29 12:01:15,496 - INFO - scenedetector.py recognize_scene 335 - use local
+2021-01-29 12:01:15,500 - INFO - scenedetector.py _match_img_feature 743 - no pool
+2021-01-29 12:01:17,034 - INFO - scenedetector.py recognize_scene 342 - 识别耗时:1.5380022525787354
+2021-01-29 12:01:17,034 - INFO - scenedetector.py recognize_scene 380 - 场景：scene_100032, 识别场景耗时：1.6873316764831543
+2021-01-29 12:01:17,035 - INFO - proberunner.py _mark_traversing_scene 484 - [traverse] scene_100032
+2021-01-29 12:01:17,035 - INFO - scenelogger.py recognized 82 - [recognized] 12_01_17_035865_scene_100032_2_青龙秘宝.jpg
+2021-01-29 12:01:17,035 - INFO - scenelogger.py save_image 149 - save_imageC:\Users\bo.liu\Documents\scene_20210126tymyd.uitrace\log\log_0129_120109_333167\12_01_17_035865_scene_100032_2_青龙秘宝.jpg
+2021-01-29 12:01:17,054 - Level 21 - traverser.py run 285 - 首个场景识别为：2_青龙秘宝
+2021-01-29 12:01:17,054 - Level 21 - traverser.py run 301 - -->当前场景:2_青龙秘宝
+2021-01-29 12:01:17,054 - DEBUG - traverser.py run 302 - <Scene id:scene_100032,paths:['Path[available/retry/reuse:1/4/1 destScene:None locator:obj_100034.jpg]'],back:None>
+2021-01-29 12:01:17,055 - Level 21 - traverser.py run 317 - 剩余必经场景数量为 1
+2021-01-29 12:01:17,055 - INFO - traverser.py select_path 207 - 选择路径
+2021-01-29 12:01:17,055 - Level 21 - traverser.py run 343 - 选择路径:Path[available/retry/reuse:1/4/1 destScene:None locator:obj_100034.jpg]
+2021-01-29 12:01:17,055 - Level 21 - traverser.py run 346 - 预期场景:未知场景
+2021-01-29 12:01:17,055 - INFO - proberunner.py _mark_operation 502 - [operation] obj_100034
+2021-01-29 12:01:17,055 - INFO - actionhandler.py do_action 191 - OperationType.TYPE_SCRIPT obj_100034
+2021-01-29 12:01:17,055 - INFO - actionhandler.py do_action 192 - {'similarity': 0.7, 'gray': 0, 'index': -1, 'locator': 'obj_100033.jpg', 'by': 'CV', 'xOffset': 0, 'yOffset': 0, 'timeOut': 20, 'raiseException': 0, 'LongClickTime': 1, 'text': '', 'key': '', 'repeat': 1}

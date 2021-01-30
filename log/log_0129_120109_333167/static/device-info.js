@@ -1,0 +1,1 @@
+const deviceInfo={"id": "2XT0218B14005448", "osversion": "9", "resolution": "(2340, 1080)", "brand": "HONOR", "model": "TNY-AL00", "name": "TNY-AL00", "platform": "ANDROID"}
