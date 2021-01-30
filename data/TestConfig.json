@@ -1,0 +1,14 @@
+{
+  "RetailEnable":true,
+  "LogLevel":0,
+  "ScriptStackTraceMode":1,
+  "LogOutputMode":3,
+  "GCloudTestEnv":true,
+  "RechargeMode":1,
+  "GMOpen":true,
+  "GCloudLogEnable":true,
+  "UpdateDisable":false,
+  "HotfixEnabled":true,
+  "EnableDebugLog1":true,
+  "EnableDebugLog6":true
+}
